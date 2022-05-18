@@ -2,7 +2,7 @@
 - 👀 I’m interested in  learning python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any easy project
-- 📫 How to reach me go to myt email ---> antoinephilippon2010@gmail.com
+- 📫 How to reach me go to my email ---> antoinephilippon2010@gmail.com
 
 <!---
 antonimacaroni2000/antonimacaroni2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
